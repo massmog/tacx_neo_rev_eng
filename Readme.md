@@ -15,7 +15,3 @@ This is currently a **work-in-progress** and should be considered a draft. The p
 ### Disclaimer
 
 This project is for educational and diagnostic purposes only. Messing with your trainer's internals may void your warranty or lead to hardware failure. Proceed with caution!
-
----
-
-**Would you like me to help you draft a "How to Contribute" section or a list of identified components for the README?**
