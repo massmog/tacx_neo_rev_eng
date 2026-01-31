@@ -21,6 +21,7 @@ The following removal tool have been used for this project
     * Bolt M16x60 DIN933
     * Nut M16 DIN934
     * Bolt M6x16 DIN912
+<img width="712" height="697" alt="image" src="https://github.com/user-attachments/assets/28d9d147-9c6a-4bfd-b696-016f293a9840" />
 
 ### Known issues
 
@@ -28,6 +29,9 @@ The following removal tool have been used for this project
 
 * Description: Trainer does not start any longer and the fans spin continously.
 * Failure mode: This buck converter is known to fail due to diode D3. (DFLS1100)
+
+<img width="775" height="665" alt="image" src="https://github.com/user-attachments/assets/38ef9ad8-22fe-455b-a07f-9a67faba6f43" />
+
 
 ### Disclaimer
 
